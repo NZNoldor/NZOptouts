@@ -1,6 +1,6 @@
 # NZ Opt-outs
 
-In August 2019, I posted a list of preventable NZ annoyances to [reddit](https://www.reddit.com/r/newzealand/comments/ckg1i9/list_of_optouts_for_a_bunch_of_useless_and/) providing links and details of places where you can opt out of. Reddit use Tritiumnzlol formatted the post into a .md file for me, converting it into this document.
+In August 2019, I posted a list of preventable NZ annoyances to [reddit](https://www.reddit.com/r/newzealand/comments/ckg1i9/list_of_optouts_for_a_bunch_of_useless_and/) providing links and details of places where you can opt out of. Reddit user Tritiumnzlol formatted the post into a .md file for me, converting it into this document.
 
 If you know any additional opt-outs or corrections. please make a pull request.
 
@@ -8,17 +8,6 @@ If you know any additional opt-outs or corrections. please make a pull request.
 ## List of opt-outs for a bunch of useless and annoying NZ things
 
 ----
-### No more parking fines 
-NZTA's drivers license and car registration database is available to anyone who wants access. However, they have an Opt-out option so they can't pass your information on to 3rd parties.
-
-* [Transact.nzta.govt.nz: Revoke authorised access to my personal details (Opt-out)](https://transact.nzta.govt.nz/transactions/PersonalInfoAccess/entry.aspx)
-
-One of the companies that has access to your information is Wilsons Parking, so after the opt-out, you can literally ignore any of their tickets, since they can no longer use your car's registration plate find your address in order to send you their parking fines. For more info, check here:
-
-* [Reddit.com: How to defend a $65 Wilsons Parking Ticket](https://www.reddit.com/r/newzealand/comments/77bz67/how_to_defend_a_65_wilsons_parking_ticket/)
-
-----
-
 ### Stop the physical spam in your mailbox
 NZ's Marketing Association also has opt-outs - the "Do Not Mail" page, this one is supposed to cut down the physical spam in your mailbox (remember? the one outside the front door):
 
@@ -62,8 +51,18 @@ A lot of delivery drivers have a habit of knocking once, then immediately drivin
 * [Fastways: Authority to leave](https://www.fastway.co.nz/tools/authority-to-leave/)
 * [NZ Couriers: Leave my Delivery](https://www.leavemydelivery.co.nz/)
 
-
 -----
+
+### No more parking fines 
+NZTA's drivers license and car registration database is available to anyone who wants access. However, they have an Opt-out option so they can't pass your information on to 3rd parties.
+
+* [Transact.nzta.govt.nz: Revoke authorised access to my personal details (Opt-out)](https://transact.nzta.govt.nz/transactions/PersonalInfoAccess/entry.aspx)
+
+One of the companies that has access to your information is Wilsons Parking, so after the opt-out, you can literally ignore any of their tickets, since they can no longer use your car's registration plate find your address in order to send you their parking fines. For more info, check here:
+
+* [Reddit.com: How to defend a $65 Wilsons Parking Ticket](https://www.reddit.com/r/newzealand/comments/77bz67/how_to_defend_a_65_wilsons_parking_ticket/)
+
+----
 
 If you know of any other opt-outs, make a pull request.
 
@@ -71,4 +70,4 @@ If you know of any other opt-outs, make a pull request.
 
 ### Credits
 
->Sourced from NZNoldor's [reddit post](https://www.reddit.com/r/newzealand/comments/ckg1i9/list_of_optouts_for_a_bunch_of_useless_and/) with their permission.
+>Sourced from NZNoldor's [reddit post](https://www.reddit.com/r/newzealand/comments/ckg1i9/list_of_optouts_for_a_bunch_of_useless_and/) with permission. Initial formatting by Tritiumnzlol.
