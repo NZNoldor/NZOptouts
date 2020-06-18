@@ -5,6 +5,8 @@ In August 2019, I created a list of preventable NZ annoyances to providing links
 If you know any additional opt-outs or corrections. please make a pull request.
 
 
+> NB - I'm just some guy on the internet, so I'm not taking responsibility for any of these things going wrong. If it works for you, great! If it doesn't, let me know, and I'll update my list. If things went horribly wrong, and your cat died because of anything I said on this list, that's your problem. Deal with it.
+
 ## List of opt-outs for a bunch of useless and annoying NZ things
 
 ----
@@ -62,6 +64,7 @@ One of the companies that has access to your information is Wilsons Parking, so 
 
 * [Reddit.com: How to defend a $65 Wilsons Parking Ticket](https://www.reddit.com/r/newzealand/comments/77bz67/how_to_defend_a_65_wilsons_parking_ticket/)
 
+NB - I'm not a lawyer, and if this tip offends your sensibilities, don't do it. If you do use it, and it doesn't work, don't come running to me. You're all grownups, and perhaps you shouldn't have parked in a Wilson's Carpark if you didn't want the risk of a fine. YMMV.
 
 ----
 
