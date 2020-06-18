@@ -1,6 +1,8 @@
-# NZOptouts
+# NZ Opt-outs
 
-NZNoldor's made a fantastic [reddit post](https://www.reddit.com/r/newzealand/comments/ckg1i9/list_of_optouts_for_a_bunch_of_useless_and/) providing links and details of places where you can opt out of. I've taken the post (with his permission) and converted it into this document. If you know any additional opt-outs or corrections. please make a pull request.
+In August 2019, I posted a list of preventable NZ annoyances to [reddit](https://www.reddit.com/r/newzealand/comments/ckg1i9/list_of_optouts_for_a_bunch_of_useless_and/) providing links and details of places where you can opt out of. Reddit use Tritiumnzlol formatted the post into a .md file for me, converting it into this document.
+
+If you know any additional opt-outs or corrections. please make a pull request.
 
 
 ## List of opt-outs for a bunch of useless and annoying NZ things
