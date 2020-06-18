@@ -62,7 +62,6 @@ One of the companies that has access to your information is Wilsons Parking, so 
 
 * [Reddit.com: How to defend a $65 Wilsons Parking Ticket](https://www.reddit.com/r/newzealand/comments/77bz67/how_to_defend_a_65_wilsons_parking_ticket/)
 
-NB - I'm not a lawyer, and if this tip offends your sensibilities, don't do it. If you do use it, and it doesn't work, don't come running to me. You're all grownsups, and perhaps you shouldn't have parked in a Wilson's Carpark if you didn't want the risk of a fine.
 
 ----
 
