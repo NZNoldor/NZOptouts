@@ -1,6 +1,6 @@
 # NZ Opt-outs
 
-In August 2019, I posted a list of preventable NZ annoyances to [reddit](https://www.reddit.com/r/newzealand/comments/ckg1i9/list_of_optouts_for_a_bunch_of_useless_and/) providing links and details of places where you can opt out of. Reddit user Tritiumnzlol formatted the post into a .md file for me, converting it into this document.
+In August 2019, I posted a list of preventable NZ annoyances to [reddit](https://www.reddit.com/r/newzealand/comments/ckg1i9/list_of_optouts_for_a_bunch_of_useless_and/) providing links and details of places where you can opt out of. A kindly fellow redditor reformatted the post into a .md file for me, converting it into this document.
 
 If you know any additional opt-outs or corrections. please make a pull request.
 
@@ -62,6 +62,8 @@ One of the companies that has access to your information is Wilsons Parking, so 
 
 * [Reddit.com: How to defend a $65 Wilsons Parking Ticket](https://www.reddit.com/r/newzealand/comments/77bz67/how_to_defend_a_65_wilsons_parking_ticket/)
 
+NB - I'm not a lawyer, and if this tip offends your sensibilities, don't do it. If you do use it, and it doesn't work, don't come running to me. You're all grownsups, and perhaps you shouldn't have parked in a Wilson's Carpark if you didn't want the risk of a fine.
+
 ----
 
 If you know of any other opt-outs, make a pull request.
@@ -70,4 +72,5 @@ If you know of any other opt-outs, make a pull request.
 
 ### Credits
 
->Sourced from NZNoldor's [reddit post](https://www.reddit.com/r/newzealand/comments/ckg1i9/list_of_optouts_for_a_bunch_of_useless_and/) with permission. Initial formatting by Tritiumnzlol.
+>2017-2020: I created the initial list for myself because I hates spam in all its forms. Other opt-outs soon followed, and I made it more readable for other people. If it's useful to anyone out there, drop me a line!
+
