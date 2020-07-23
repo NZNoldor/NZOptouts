@@ -5,7 +5,7 @@ In August 2019, I created a list of preventable NZ annoyances to providing links
 If you know any additional opt-outs or corrections. please make a pull request.
 
 
-> NB - I'm just some guy on the internet, so I'm not taking responsibility for any of these things going wrong. If it works for you, great! If it doesn't, let me know, and I'll update my list. If things went horribly wrong, and your cat died because of anything I said on this list, that's your problem. Deal with it.
+NB - I'm just some guy on the internet, so I'm not taking responsibility for any of these things going wrong. If it works for you, great! If it doesn't, let me know, and I'll update my list. If things went horribly wrong, and your cat died because of anything I said on this list, that's your problem. Deal with it.
 
 ## List of opt-outs for a bunch of useless and annoying NZ things
 
@@ -74,5 +74,5 @@ If you know of any other opt-outs, make a pull request.
 
 ### Credits
 
->2017-2020: I created the initial list for myself because I hates spam in all its forms. Other opt-outs soon followed, and I made it more readable for other people. If it's useful to anyone out there, drop me a line!
+2017-2020: I created the initial list for myself because I hates spam in all its forms. Other opt-outs soon followed, and I made it more readable for other people. If it's useful to anyone out there, drop me a line!
 
